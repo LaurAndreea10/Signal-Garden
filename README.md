@@ -1,10 +1,10 @@
-# Signal Garden 4.0
+# Signal Garden 4.1
 
 Joc cognitiv accesibil, bilingv și instalabil, creat de Laura Andreea Plugaru.
 
 ## Română
 
-Signal Garden oferă 12 moduri cognitive, cinci lumi de campanie, dificultate adaptivă, Mistake Review, XP, insigne, certificat și rapoarte locale.
+Signal Garden oferă 13 moduri cognitive, cinci lumi de campanie, dificultate adaptivă, Mistake Review, XP, insigne, certificat și rapoarte locale.
 
 ### Accesibilitate
 
@@ -25,7 +25,7 @@ Signal Garden oferă 12 moduri cognitive, cinci lumi de campanie, dificultate ad
 
 ## English
 
-Signal Garden is an accessible, bilingual and installable cognitive game featuring 12 game modes, five campaign worlds, adaptive difficulty, Mistake Review, XP, badges, a printable certificate and local progress reports.
+Signal Garden is an accessible, bilingual and installable cognitive game featuring 13 game modes, five campaign worlds, adaptive difficulty, Mistake Review, XP, badges, a printable certificate and local progress reports.
 
 ### Accessibility
 
