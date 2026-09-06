@@ -1,51 +1,53 @@
-Signal Garden 3.0
+# Signal Garden 3.1
 
-Joc cognitiv accesibil, bilingv (RO/EN), creat pentru control prin atingere, mouse sau tastatură.
+Joc cognitiv accesibil, bilingv și instalabil, creat de Laura Andreea Plugaru.
 
-Funcții
+## Română
 
-mod relaxat fără cronometru și mod contra cronometru;
+Signal Garden oferă 12 moduri cognitive, cinci lumi de campanie, dificultate adaptivă, Mistake Review, XP, insigne, certificat și rapoarte locale.
 
-trei niveluri de dificultate;
+### Accesibilitate
 
-indicii redundante: culoare, simbol, text și modele;
+- mouse, atingere, tastatură sau un singur buton;
+- profiluri pentru vedere redusă, dislexie, ADHD, control motor limitat și sensibilitate la mișcare;
+- contrast ridicat, text mare, mișcare redusă, modele independente de culoare, voce și vibrații;
+- mod relaxat fără cronometru;
+- date păstrate local, fără cont și fără reclame.
 
-citire vocală opțională, sunete și vibrații opționale;
+### Comenzi
 
-text mare, contrast ridicat și mișcare redusă;
+- 1–4: răspuns;
+- Space: pauză sau selectarea opțiunii scanate;
+- H: indiciu;
+- R: repetarea vocală.
 
-navigare completă cu tastatura și feedback pentru cititoare de ecran;
+---
 
-scor, serie, record local, niveluri și grădină vizuală;
+## English
 
-interfață responsive în română și engleză;
+Signal Garden is an accessible, bilingual and installable cognitive game featuring 12 game modes, five campaign worlds, adaptive difficulty, Mistake Review, XP, badges, a printable certificate and local progress reports.
 
-setările și recordul sunt păstrate local.
+### Accessibility
 
-Comenzi
+- play with mouse, touch, keyboard or a single switch;
+- presets for low vision, dyslexia, ADHD/focus, limited motor control and motion sensitivity;
+- high contrast, large text, reduced motion, colour-independent patterns, speech and optional vibration;
+- relaxed mode with no timer;
+- local-only data, no account and no advertising.
 
-1–4: răspuns
+### Controls
 
-Space: pauză/continuare
+- 1–4: choose an answer;
+- Space: pause or select the scanned option;
+- H: show a hint;
+- R: repeat the instruction aloud.
 
-H: indiciu
+## Project files
 
-R: repetarea vocală a cerinței
+- [Accessibility / Accesibilitate](ACCESSIBILITY.md)
+- [Privacy / Confidențialitate](PRIVACY.md)
+- [Testing / Testare](TESTING.md)
+- [Roadmap](ROADMAP.md)
+- [Version history / Istoric](CHANGELOG.md)
 
-Versiunea 2.0
-
-cinci moduri: semnal, element diferit, secvență, perechi și auditiv;
-
-cinci lumi, XP, niveluri, insigne, misiune zilnică și istoric;
-
-profiluri pentru vedere redusă, dislexie, ADHD, control motor și sensibilitate la mișcare;
-
-control cu un singur buton, mod focus, export/import JSON, CSV și PDF;
-
-PWA instalabilă cu funcționare offline.
-
-Istoricul complet este în CHANGELOG.md.
-
-Versiunea 3.0
-
-12 moduri cognitive, dificultate adaptivă, Mistake Review, certificat, partajare, auto-pauză, SEO și documentație pentru accesibilitate, confidențialitate și testare.
+Live demo: https://laurandreea10.github.io/Signal-Garden/
