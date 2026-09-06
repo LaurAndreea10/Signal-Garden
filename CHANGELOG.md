@@ -1,4 +1,13 @@
 # Istoricul proiectului
+## 4.1.0 — 2026-09-06
+- integrat modul „Sunete și Culori” în selectorul principal și în panoul profesorului;
+- secvențe audiovizuale, patru forme, patru frecvențe și trei viteze;
+- control tactil și prin tastatura 1–4, sunet opțional și record local;
+- progres inclus în statisticile și istoricul Signal Garden;
+- interfață completă în română și engleză și cache PWA actualizat.
+
+English: integrated “Sounds & Colors” as the thirteenth bilingual mode, with audiovisual sequences, four shapes and tones, three speeds, optional sound, keyboard/touch controls, local best score, progress history and offline support.
+
 ## 4.0.0 — 2026-09-06
 - niveluri persistente pentru fiecare lume și sesiuni de 5–20 de runde;
 - panou profesor/terapeut cu obiectiv, mod, durată, notițe și raport JSON;
