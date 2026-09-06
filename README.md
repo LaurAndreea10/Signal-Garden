@@ -1,4 +1,4 @@
-# Signal Garden 3.1
+# Signal Garden 4.0
 
 Joc cognitiv accesibil, bilingv și instalabil, creat de Laura Andreea Plugaru.
 
@@ -51,3 +51,7 @@ Signal Garden is an accessible, bilingual and installable cognitive game featuri
 - [Version history / Istoric](CHANGELOG.md)
 
 Live demo: https://laurandreea10.github.io/Signal-Garden/
+
+## v4.0 / Versiunea 4.0
+
+World levels, 5–20-round sessions, a teacher/therapist panel, configurable goals and notes, local professional reports, no-penalty mode, hidden score, adjustable symbol size and switch scanning speed.
