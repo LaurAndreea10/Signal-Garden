@@ -1,13 +1,19 @@
-Accessibility
+# Accessibility
 
 Signal Garden folosește structură semantică, skip link, focus vizibil, regiuni live, comenzi din tastatură, zone tactile de minimum 44px, text scalabil, contrast ridicat, mișcare redusă, modele independente de culoare, voce, vibrații și control cu un singur buton.
 
-Tastatură
+## Tastatură
 
-1–4 răspund; Space pune pauză sau activează opțiunea scanată; H oferă un indiciu; R repetă cerința.
+- 1–4 răspund; Space pune pauză sau activează opțiunea scanată; H oferă un indiciu; R repetă cerința.
 
-Profiluri
+## Profiluri
 
 Vedere redusă, dislexie, focus/ADHD, control motor limitat și sensibilitate la mișcare. Modul relaxat elimină presiunea timpului.
 
 Ținta proiectului este WCAG 2.2 AA. Problemele pot fi documentate fără date personale.
+
+## English
+
+Signal Garden uses semantic structure, a skip link, visible focus, live regions, keyboard controls, touch targets of at least 44px, scalable text, high contrast, reduced motion, colour-independent patterns, speech, vibration and single-switch control.
+
+Keyboard: 1–4 answer, Space pauses or selects the scanned option, H shows a hint and R repeats the instruction. The target is WCAG 2.2 AA.
