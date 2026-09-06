@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://signal-garden-accessible-game.plugaru-laura10.chatgpt.site/sitemap.xml
