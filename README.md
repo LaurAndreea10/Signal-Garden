@@ -55,3 +55,7 @@ Live demo: https://laurandreea10.github.io/Signal-Garden/
 ## v4.0 / Versiunea 4.0
 
 World levels, 5–20-round sessions, a teacher/therapist panel, configurable goals and notes, local professional reports, no-penalty mode, hidden score, adjustable symbol size and switch scanning speed.
+
+## v4.1 / Versiunea 4.1
+
+Adds **Sunete și Culori / Sounds & Colors** as the thirteenth mode: an accessible audiovisual sequence-memory game with four colour-and-shape pads, distinct tones, three speeds, optional sound, keyboard/touch input and a locally saved best score.
