@@ -14,7 +14,7 @@
   function start(){sequence=[];step=0;hits=0;presses=0;busy=false;$('#scStart').textContent=state.lang==='en'?'Restart':'Repornește';say('Jocul începe!','The game begins!');next()}
   pads.forEach((p,i)=>p.onclick=()=>press(i));$('#scStart').onclick=start;$('#scClose').onclick=()=>{busy=true;setPads(false);panel.close()};$('#scSpeed').onchange=()=>localStorage.sgSoundColorsSpeed=$('#scSpeed').value;$('#scSound').onchange=()=>localStorage.sgSoundColorsSound=$('#scSound').checked;
   $('#scSpeed').value=localStorage.sgSoundColorsSpeed||'450';$('#scSound').checked=localStorage.sgSoundColorsSound!=='false';
-  const prior=translateExtended;translateExtended=function(){prior();copy()};
+  const prior=translateExtended;translateExtended=function(){prior();copy();document.title=state.lang==='en'?'Signal Garden 4.1 — Accessible Game':'Signal Garden 4.1 — Joc accesibil';let cp=$$('#certificate p');if(cp.length)cp[cp.length-1].textContent=(state.lang==='en'?'6 September 2026':'6 septembrie 2026')+' • Signal Garden 4.1'};
   const normalStart=$('#startBtn').onclick;$('#startBtn').onclick=()=>{if($('#gameType').value!=='soundColors')return normalStart();copy();say('Apasă Start pentru a începe.','Press Start to begin.');score();panel.showModal();$('#scStart').focus()};
   document.addEventListener('keydown',e=>{if(!panel.open||busy)return;let i=Number(e.key)-1;if(i>=0&&i<4){e.preventDefault();press(i)}},true);addEventListener('load',copy);copy();
 })();
