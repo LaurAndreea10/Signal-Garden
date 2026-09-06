@@ -1,4 +1,12 @@
 # Istoricul proiectului
+## 4.0.0 — 2026-09-06
+- niveluri persistente pentru fiecare lume și sesiuni de 5–20 de runde;
+- panou profesor/terapeut cu obiectiv, mod, durată, notițe și raport JSON;
+- mod fără penalizări, ascunderea scorului, simboluri și scanare ajustabile;
+- mecanici dedicate pentru numărare și direcții;
+- cache PWA v4 și verificări automate.
+
+English: persistent world levels, configurable sessions, teacher/therapist planning and reports, no-penalty play, hidden score, adjustable symbols and scanning, new counting/direction mechanics and PWA v4.
 ## 3.1.0 — 2026-09-06
 - interfață completă în română și engleză;
 - traducerea campaniei, modurilor, profilurilor, statisticilor, certificatului și mesajelor dinamice;
